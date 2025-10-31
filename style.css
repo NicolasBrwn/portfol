@@ -31,7 +31,7 @@ body.dark .header {
 }
 
 body.dark .nav a {
-  color: #ffb84c;
+  color: #ffffff;
 }
 
 body.dark .nav a:hover {
@@ -234,4 +234,5 @@ footer {
     justify-content: center;
   }
 }
+
 
